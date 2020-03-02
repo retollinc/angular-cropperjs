@@ -1,20 +1,20 @@
 {
   "name": "angular-cropperjs",
   "description": "CropperJS integration for Angular 2/4",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "repository": {
     "type": "git",
-    "url": "https://github.com/matheusdavidson/angular-cropperjs"
+    "url": "https://github.com/retollinc/angular-cropperjs"
   },
   "author": {
-    "name": "Matheus Davidson",
-    "email": "matheusdavidson@gmail.com"
+    "name": "Retoll Inc",
+    "email": "retollinc@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matheusdavidson/angular-cropperjs/issues"
+    "url": "https://github.com/retollinc/angular-cropperjs/issues"
   },
-  "homepage": "https://github.com/matheusdavidson/angular-cropperjs#readme",
+  "homepage": "https://github.com/retollinc/angular-cropperjs#readme",
   "keywords": [
     "angular",
     "angular2",
